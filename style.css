@@ -1,0 +1,26 @@
+/*
+Theme Name:   RK Child
+Description:  For General Chicken
+Author:       JohnDee
+Author URL:   https://generalchicken.net
+Template:     responsive-kubrick
+Version:      1.0
+Text Domain:  rk-child
+*/
+
+/* Write here your own personal stylesheet */
+
+
+.site-header {
+    min-height: 0px !important;
+}
+
+
+.menu-maino-container ul { margin: 0; padding: 0; 
+	list-style-type: none; list-style-image: none; }
+.menu-maino-container li { display: inline; }
+.menu-maino-container ul li a { text-decoration:none;  margin: 4px;
+	padding: 5px 20px 5px 20px; color: blue;
+	background: pink; }
+.menu-maino-container ul li a:hover { color: purple;
+	background: yellow; }
